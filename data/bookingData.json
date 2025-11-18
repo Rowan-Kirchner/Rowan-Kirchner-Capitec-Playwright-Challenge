@@ -1,0 +1,28 @@
+﻿{
+  "baseBooking": {
+    "firstname": "Rowan",
+    "lastname": "Kirchner",
+    "totalprice": 150,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2025-11-20",
+      "checkout": "2025-11-25"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  "updateBooking": {
+    "firstname": "Bernalee",
+    "lastname": "Kirchner",
+    "totalprice": 200,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2025-12-01",
+      "checkout": "2025-12-10"
+    },
+    "additionalneeds": "Late checkout"
+  },
+  "partialUpdate": {
+    "firstname": "Alora",
+    "totalprice": 999
+  }
+}
